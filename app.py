@@ -78,7 +78,7 @@ def about():
 if __name__ == '__main__':
     root=Tk()
     root.title("Untitled - Notepad")
-    img = PhotoImage(file = "E:\\PythonProjects\\notepad\\pic.png")
+    img = PhotoImage(file = pic.png")
     root.tk.call('wm', 'iconphoto', root._w, img)
     root.geometry("700x500")
 
